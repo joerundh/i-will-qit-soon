@@ -1,6 +1,6 @@
 // All the demo data that used as fallbacks when there's nothing in the dataset yet
 
-export const title = 'Blog.'
+export const title = 'I will QIT soon.'
 
 export const description = [
   {
@@ -11,7 +11,7 @@ export const description = [
         _key: '4a58edd077880',
         _type: 'span',
         marks: [],
-        text: 'A statically generated blog example using ',
+        text: 'A last-ditch attempt at using a template with ',
       },
       {
         _key: '4a58edd077881',
@@ -23,7 +23,7 @@ export const description = [
         _key: '4a58edd077882',
         _type: 'span',
         marks: [],
-        text: ' and ',
+        text: ', and with ',
       },
       {
         _key: '4a58edd077883',
